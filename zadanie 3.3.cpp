@@ -1,8 +1,6 @@
 ﻿// zadanie 3.3.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
 //
 #include <iostream>
-#include <cmath>
-#include <math.h>
 using namespace std;
 
 int main()
